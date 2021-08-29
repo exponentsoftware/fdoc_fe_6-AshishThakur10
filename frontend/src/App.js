@@ -1,21 +1,11 @@
 
 import './App.css';
+import Albums from './components/aldum';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-      <img src="/images/aman.jpg" alt="are" />
-      <img src="/images/ash.jpg" alt="are" />
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          
-        </a>
-      </header>
+      <Albums />
     </div>
   );
 }
