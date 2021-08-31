@@ -1,12 +1,17 @@
 
 import './App.css';
-import Albums from './components/aldum';
+import Header from './Component/Header';
+// import Albums from './Component/Albums';
+ 
 
 function App() {
   return (
-    <div className="App">
-      <Albums />
-    </div>
+    <>
+   <Header title="A.R.Rahman"/>
+    
+    
+    
+    </>
   );
 }
 
