@@ -1,5 +1,9 @@
 .App {
-  text-align: center;
+  padding-left: 34px;
+  background-color: #242121;
+  color:white;
+}
+.App1{
   background-color: #242121;
 }
 
